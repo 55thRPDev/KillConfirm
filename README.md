@@ -49,4 +49,6 @@ https://youtu.be/_Dhgae85r1A
 | GND             | GND                 |
 
 
+Source code and required libraries can be found in /Arduino
+
 
