@@ -1,5 +1,5 @@
 This resource is free forever and always for personal use
-Your support is always appreciated it <3 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T8KZZF4)    
+Your support is always appreciated <3 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T8KZZF4)    
 
 
 # Kill Confirm  
@@ -48,5 +48,7 @@ https://youtu.be/_Dhgae85r1A
 | VCC             | 5V                  |
 | GND             | GND                 |
 
+
+Source code and required libraries can be found in /Arduino
 
 
