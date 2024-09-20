@@ -1,4 +1,6 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T8KZZF4)
+This resource is free forever and always for personal use
+Your support is always appreciated it <3 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T8KZZF4)    
+
 
 # Kill Confirm  
 Kill Confirm score counter for 2 teams using RFID. Arduino Uno Based.
@@ -46,9 +48,5 @@ https://youtu.be/_Dhgae85r1A
 | VCC             | 5V                  |
 | GND             | GND                 |
 
-
-## My Ko-fi
-https://ko-fi.com/55thstreetrp
-Your support is always appreciated it <3
 
 
