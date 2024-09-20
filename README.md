@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T8KZZF4)
+
 # Kill Confirm  
 Kill Confirm score counter for 2 teams using RFID. Arduino Uno Based.
 
